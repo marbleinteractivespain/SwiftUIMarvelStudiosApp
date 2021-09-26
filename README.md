@@ -1,3 +1,7 @@
 # SwiftUIMarvelStudiosApp
 
-<h1>PRACTICA SWIFTUI KEEPCODING BOOTCAMP XII</h1>
+<h2>PRACTICA SWIFTUI KEEPCODING BOOTCAMP XII</h2>
+
+<p align="center">
+  <img width="100%" src="#?raw=true">
+</p>
